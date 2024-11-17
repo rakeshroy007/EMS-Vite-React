@@ -99,6 +99,12 @@ To handle task stages in code:
 - **Notifications**: Push notifications to alert users of new tasks or updates.
 - **Advanced Filtering**: Enable filtering and sorting tasks by different attributes.
 - **User Authentication**: Secure the platform with login and role-based access.
+  
+## Screenshots
+![Screenshot (94)](https://github.com/user-attachments/assets/31ade753-0a15-4da3-80bc-c703d80abb06)
+<br><br><br>
+![Screenshot (95)](https://github.com/user-attachments/assets/16861ccd-099a-4e4c-a670-1a1933c17022)
+
 
 ## License
 
